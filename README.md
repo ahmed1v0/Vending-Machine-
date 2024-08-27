@@ -19,7 +19,7 @@ This project is a simulation of a vending machine system developed in Java. The 
 ## Installation and Usage
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/vending-machine-money-simulation.git
+   git clone https://github.com/ahmed1v0/Vending-Machine-.git
    cd vending-machine-money-simulation
    ```
 2. **Compile and run the program:**
